@@ -1,0 +1,6 @@
+stage,threshold,min_pos,k,n_runs,precision_mean,precision_std,precision_sem,precision_ci95,recall_mean,recall_std,recall_sem,recall_ci95,map_mean,map_std,map_sem,map_ci95,ndcg_mean,ndcg_std,ndcg_sem,ndcg_ci95,mrr_mean,mrr_std,mrr_sem,mrr_ci95,hitrate_mean,hitrate_std,hitrate_sem,hitrate_ci95
+age_group_occupation,5.0,5,20,1,,0.0,0.0,0.0,0.140900609268311,0.0,0.0,0.0,,0.0,0.0,0.0,0.0957767737555914,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0
+genres_actors_age_group_occupation,5.0,5,20,1,,0.0,0.0,0.0,0.1495332399295739,0.0,0.0,0.0,,0.0,0.0,0.0,0.1000898641970059,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0
+genres_directors_actors_countries,5.0,5,20,1,,0.0,0.0,0.0,0.1475511941840016,0.0,0.0,0.0,,0.0,0.0,0.0,0.0985182093534794,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0
+genres_directors_actors_tags,5.0,5,20,1,,0.0,0.0,0.0,0.14658275787673844,0.0,0.0,0.0,,0.0,0.0,0.0,0.0983451866964768,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0
+tags,5.0,5,20,1,,0.0,0.0,0.0,0.149106107309207,0.0,0.0,0.0,,0.0,0.0,0.0,0.0989046137378614,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0

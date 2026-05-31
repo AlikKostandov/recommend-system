@@ -1,0 +1,7 @@
+run_id,seed,stage,threshold,min_pos,k,precision,recall,map,ndcg,mrr,hitrate,n_users_eval
+0,45.0,raw,5.0,5,20,,0.1450993271783791,,0.0971557903534897,,,5614.0
+1,43.0,genres_directors_actors_countries,5.0,5,20,,0.15182792189117414,,0.09977023113065438,,,5614.0
+2,47.0,genres_directors_actors_countries_tags,5.0,5,20,,0.1465827578767384,,0.0983451866964768,,,5614.0
+3,45.0,genres_actors_age_group_occupation,5.0,5,20,,0.1495332399295739,,0.1000898641970059,,,5614.0
+4,45.0,age_group_occupation,5.0,5,20,,0.140900609268311,,0.0957767737555914,,,5614.0
+6,43.0,genres_directors_actors,5.0,5,20,,0.15161239273697902,,0.10167978012841807,,,5614.0

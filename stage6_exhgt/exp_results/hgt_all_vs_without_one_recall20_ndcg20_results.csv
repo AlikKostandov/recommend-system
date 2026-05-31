@@ -1,0 +1,6 @@
+stage,k,n_users_eval,recall,ndcg,experiment_stage,stage_string,removed_feature,removed_feature_ru,feature_set,threshold,min_pos
+genres_directors_actors_countries,20,5614,0.15182792189117414,0.09977023113065438,all_context,genres_directors_actors_countries,,Ничего не удалено,"genres, directors, actors, countries",5.0,5
+directors_actors_countries,20,5614,0.14919122145829536,0.09972882386586289,without_genres,directors_actors_countries,genres,Жанры,"directors, actors, countries",5.0,5
+genres_actors_countries,20,5614,0.15029972635084504,0.10069403661983402,without_directors,genres_actors_countries,directors,Режиссёры,"genres, actors, countries",5.0,5
+genres_directors_countries,20,5614,0.14342061125756073,0.0961891626810486,without_actors,genres_directors_countries,actors,Актёры,"genres, directors, countries",5.0,5
+genres_directors_actors,20,5614,0.15161239273697902,0.10167978012841807,without_countries,genres_directors_actors,countries,Страны,"genres, directors, actors",5.0,5
